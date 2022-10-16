@@ -1,0 +1,26 @@
+{
+  "name": "practice-stylus",
+  "description": "Practice Stylus",
+  "private": true,
+  "scripts": {
+    "build" : "stylus ./src --out ./dist",
+    "stylus": "stylus"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/practice-stylus#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/practice-stylus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/practice-stylus/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "devDependencies": {
+    "stylus": "0.59.0"
+  }
+}
